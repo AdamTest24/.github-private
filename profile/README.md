@@ -1,4 +1,4 @@
-## LearnToDiscover
+## LearnToDiscover (_via_ AdamTest24)
 
 ### Creating a new cohort
 
